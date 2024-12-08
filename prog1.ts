@@ -1,5 +1,5 @@
 function message(name: string){
-    console.log(`Hellow world : ${name}`);
+    console.log(`Hello world : ${name}`);
 }
 message("mayank");
 message("somanath");
